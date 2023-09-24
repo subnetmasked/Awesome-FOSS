@@ -17,15 +17,14 @@ A curated list of awesome open-source software that can be incredibly useful for
 
 - [VS Code](https://github.com/microsoft/vscode) - 📝 Code editor
 - [Git](https://github.com/git/git) - 📜 Version control
-- [Node.js](https://github.com/nodejs/node) - 🚀 JavaScript runtime
 - [Docker](https://github.com/docker/docker) - 🐳 Container platform
 
 ## Productivity
 
 - [LibreOffice](https://www.libreoffice.org/) - 📄 Office suite
 - [Joplin](https://github.com/laurent22/joplin) - 📓 Note-taking app
-- [Trello](https://github.com/trello/trello) - 📅 Project management
 - [Zim](https://github.com/jaap-karssenberg/zim-desktop-wiki) - 📚 Desktop wiki
+- [Thunderbird](https://www.thunderbird.net/en-GB/) - 📥 Email & chat client
 
 ## Graphics and Design
 
@@ -43,6 +42,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 ## Password Managers
 
 - [KeePass](https://keepass.info/) - 🔒 Offline password manager
+- [KeePassXC](https://keepassxc.org) 🔐 KeePass but better
 - [Bitwarden](https://bitwarden.com) ⚔️ Online password manager
 ## Security
 
@@ -63,7 +63,6 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [Audacity](https://www.audacityteam.org/) - 🎧 Audio editor
 - [Kodi](https://kodi.tv/) - 📺 Media player
 - [Calibre](https://calibre-ebook.com/) - 📚 E-book manager
-- [Wine](https://www.winehq.org/) - 🍷 Compatibility layer
 
 ## Contribution ☀️
 

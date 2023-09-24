@@ -8,7 +8,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [Productivity](#productivity)
 - [Graphics and Design](#graphics-and-design)
 - [Utilities](#utilities)
-- [Password Managers](#Password Managers)
+- [Password Managers](#Password-Managers)
 - [Security](#security)
 - [Data Science](#data-science)
 - [Miscellaneous](#miscellaneous)

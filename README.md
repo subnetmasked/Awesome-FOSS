@@ -42,8 +42,8 @@ A curated list of awesome open-source software that can be incredibly useful for
 
 ## Password Managers
 
- [KeePass](https://keepass.info/) - 🔒 Offline password manager
- [Bitwarden](https://bitwarden.com) ⚔️ Online password manager
+- [KeePass](https://keepass.info/) - 🔒 Offline password manager
+- [Bitwarden](https://bitwarden.com) ⚔️ Online password manager
 ## Security
 
 - [Kali Linux](https://www.kali.org/) - 🐉 Penetration testing OS

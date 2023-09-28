@@ -18,6 +18,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [VS Code](https://github.com/microsoft/vscode) - 📝 Code editor
 - [Git](https://github.com/git/git) - 📜 Version control
 - [Docker](https://github.com/docker/docker) - 🐳 Container platform
+- [Proxmox](https://www.proxmox.com/en/) - 🦾 Type-1 Hypervisor
 
 ## Productivity
 

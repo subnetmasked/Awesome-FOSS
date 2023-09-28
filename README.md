@@ -50,6 +50,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [Wireshark](https://www.wireshark.org/) - 📶 Network protocol analyzer
 - [VeraCrypt](https://www.veracrypt.fr/) - 🔐 Disk encryption
 - [OpenVAS](https://www.openvas.org/) - 🚪 Vulnerability scanner
+- [Wazuh](https://wazuh.com) - 🗝️ SIEM and XDR system
 
 ## Data Science
 

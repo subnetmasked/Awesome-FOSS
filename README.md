@@ -45,6 +45,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [KeePass](https://keepass.info/) - 🔒 Offline password manager
 - [KeePassXC](https://keepassxc.org) 🔐 KeePass but better
 - [Bitwarden](https://bitwarden.com) ⚔️ Online password manager
+  
 ## Security
 
 - [Kali Linux](https://www.kali.org/) - 🐉 Penetration testing OS
@@ -52,6 +53,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [VeraCrypt](https://www.veracrypt.fr/) - 🔐 Disk encryption
 - [OpenVAS](https://www.openvas.org/) - 🚪 Vulnerability scanner
 - [Wazuh](https://wazuh.com) - 🗝️ SIEM and XDR system
+- [ClamAV](https://www.clamav.net/) - 🦾 Anti-virus scanner
 
 ## Data Science
 

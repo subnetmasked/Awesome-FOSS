@@ -54,7 +54,8 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [VeraCrypt](https://www.veracrypt.fr/) - 🔐 Disk encryption
 - [OpenVAS](https://www.openvas.org/) - 🚪 Vulnerability scanner
 - [Wazuh](https://wazuh.com) - 🗝️ SIEM and XDR system
-- [ClamAV](https://www.clamav.net/) - 🦾 Anti-virus scanner
+- [ClamAV](https://www.clamav.net/) - 🎯 Anti-virus scanner
+- [VyOS](https://vyos.io/) - 🔥 Router and firewall
 
 ## Data Science
 

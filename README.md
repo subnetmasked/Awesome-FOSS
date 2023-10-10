@@ -33,6 +33,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [Inkscape](https://inkscape.org/) - ✒️ Vector graphics editor
 - [Blender](https://www.blender.org/) - 🍹 3D creation suite
 - [Krita](https://krita.org/) - 🖌️ Digital painting
+- [Kdenlive](https://kdenlive.org/en/) - 🎨 Free and Open Source Video Editor
 
 ## Utilities
 

@@ -40,6 +40,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [7-Zip](https://www.7-zip.org/) - 📦 File archiver
 - [HandBrake](https://handbrake.fr/) - 🎞️ Video transcoder
 - [Caffeine](https://github.com/caffeine-ng/caffeine-ng) - ☕ Prevents computer from sleeping
+- [Zabbix](https://zabbix.com/) - ☕ Enterprise grade monitoring software
 
 ## Password Managers
 

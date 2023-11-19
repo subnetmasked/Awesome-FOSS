@@ -19,6 +19,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [Git](https://github.com/git/git) - 📜 Version control
 - [Docker](https://github.com/docker/docker) - 🐳 Container platform
 - [Proxmox](https://www.proxmox.com/en/) - 🦾 Type-1 Hypervisor
+- [MicroCloud](https://canonical.com/microcloud) - 👾 A scaleable & lightweight cloud computing solution
 
 ## Productivity
 
@@ -40,7 +41,6 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [7-Zip](https://www.7-zip.org/) - 📦 File archiver
 - [HandBrake](https://handbrake.fr/) - 🎞️ Video transcoder
 - [Caffeine](https://github.com/caffeine-ng/caffeine-ng) - ☕ Prevents computer from sleeping
-- [Zabbix](https://zabbix.com/) - ☕ Enterprise grade monitoring software
 
 ## Password Managers
 

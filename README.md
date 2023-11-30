@@ -4,14 +4,21 @@ A curated list of awesome open-source software that can be incredibly useful for
 
 ## Contents
 
+- [Browsers](#Browsers)
 - [Development](#development)
 - [Productivity](#productivity)
 - [Graphics and Design](#graphics-and-design)
 - [Utilities](#utilities)
 - [Password Managers](#Password-Managers)
+- [Media](#Media)
 - [Security](#security)
 - [Data Science](#data-science)
 - [Miscellaneous](#miscellaneous)
+
+## Browsers
+
+- [Brave Browser](https://brave.com/) - 🦁 A privacy-focused web browser with built-in ad and tracker blocking
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - 🔥🦊 A privacy focused non-chromium web browser
 
 ## Development
 
@@ -35,18 +42,24 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [Blender](https://www.blender.org/) - 🍹 3D creation suite
 - [Krita](https://krita.org/) - 🖌️ Digital painting
 - [Kdenlive](https://kdenlive.org/en/) - 🎨 Video Editor
-
+- [OpenShot](https://www.openshot.org/) - 🎥 An easy-to-use, quick to learn, and surprisingly powerful video editor
+  
 ## Utilities
 
 - [7-Zip](https://www.7-zip.org/) - 📦 File archiver
-- [HandBrake](https://handbrake.fr/) - 🎞️ Video transcoder
 - [Caffeine](https://github.com/caffeine-ng/caffeine-ng) - ☕ Prevents computer from sleeping
+- [qBittorrent](https://www.qbittorrent.org/) - 📁 A lightweight and feature-rich BitTorrent client
 
 ## Password Managers
 
 - [KeePass](https://keepass.info/) - 🔒 Offline password manager
 - [KeePassXC](https://keepassxc.org) 🔐 KeePass but better
-- [Bitwarden](https://bitwarden.com) ⚔️ Online password manager
+- [Bitwarden](https://bitwarden.com) - ⚔️ Online password manager
+
+## Media
+
+- [VLC Media Player](https://www.videolan.org/vlc/) - 💿 A universal media player
+- [HandBrake](https://handbrake.fr/) - 🎞️ Video transcoder
   
 ## Security
 

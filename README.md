@@ -7,6 +7,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [Browsers](#Browsers)
 - [Development](#development)
 - [Productivity](#productivity)
+- [Games](#Games)
 - [Graphics and Design](#graphics-and-design)
 - [Utilities](#utilities)
 - [Password Managers](#Password-Managers)
@@ -34,6 +35,10 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [Joplin](https://github.com/laurent22/joplin) - 📓 Note-taking app
 - [Zim](https://github.com/jaap-karssenberg/zim-desktop-wiki) - 📚 Desktop wiki
 - [Thunderbird](https://www.thunderbird.net/en-GB/) - 📥 Email & chat client
+
+## Games
+
+- [OpenTTD](https://www.openttd.org/) - 🚋 A fully open-source transport tycoon game
 
 ## Graphics and Design
 

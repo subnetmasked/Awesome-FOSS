@@ -88,6 +88,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [Audacity](https://www.audacityteam.org/) - 🎧 Audio editor
 - [Kodi](https://kodi.tv/) - 📺 Media player
 - [Calibre](https://calibre-ebook.com/) - 📚 E-book manager
+- [Zentyal](https://www.zentyal.com/) - 🚀 Easy Linux Server Solution Alternative to Windows Server
 
 ## Contribution ☀️
 

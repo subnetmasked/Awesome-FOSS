@@ -53,6 +53,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 
 - [7-Zip](https://www.7-zip.org/) - 📦 File archiver
 - [Caffeine](https://github.com/caffeine-ng/caffeine-ng) - ☕ Prevents computer from sleeping
+- [Glim](https://github.com/NeoPanic/Glim) - 📄 macOS file viewer and basic text editor with Markdown, diagram, PDF and data-file previews
 - [qBittorrent](https://www.qbittorrent.org/) - 📁 A lightweight and feature-rich BitTorrent client
 
 ## Password Managers

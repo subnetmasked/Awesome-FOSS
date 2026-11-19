@@ -52,6 +52,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 ## Utilities
 
 - [7-Zip](https://www.7-zip.org/) - 📦 File archiver
+- [BitTool Signer for iOS](https://bittool.com/signer/) - 📱 Offline iPhone transaction-signing app that keeps keys on a dedicated device and exchanges requests and signatures via QR codes
 - [Caffeine](https://github.com/caffeine-ng/caffeine-ng) - ☕ Prevents computer from sleeping
 - [Glim](https://github.com/NeoPanic/Glim) - 📄 macOS file viewer and basic text editor with Markdown, diagram, PDF and data-file previews
 - [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - 🖥️ macOS multi-monitor window layout and display manager that restores windows to their original display and Space, with DDC brightness sync and 4-mode anti-sleep

@@ -28,6 +28,7 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [Docker](https://github.com/docker/docker) - 🐳 Container platform
 - [Proxmox](https://www.proxmox.com/en/) - 🦾 Type-1 Hypervisor
 - [MicroCloud](https://canonical.com/microcloud) - 👾 A scaleable & lightweight cloud computing solution
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) - 🔎 Self-hosted website uptime, TLS and domain expiry monitoring.
 
 ## Productivity
 

@@ -1,27 +1,64 @@
-# Awesome FOSS 🚀
+<a id="readme-top"></a>
 
-A curated list of awesome open-source software that can be incredibly useful for various purposes. Feel free to contribute by adding your favorite projects!
+<div align="center">
 
-## Contents
+# 🚀 Awesome FOSS
 
-- [Browsers](#Browsers)
-- [Development](#development)
-- [Productivity](#productivity)
-- [Games](#Games)
-- [Graphics and Design](#graphics-and-design)
-- [Utilities](#utilities)
-- [Password Managers](#Password-Managers)
-- [Media](#Media)
-- [Security](#security)
-- [Data Science](#data-science)
-- [Miscellaneous](#miscellaneous)
+**A curated list of awesome open-source software that can be incredibly useful for various purposes.**
 
-## Browsers
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](#contribution)
+[![FOSS](https://img.shields.io/badge/100%25-Free%20%26%20Open%20Source-blue.svg?style=flat)](#contents)
+
+*Feel free to contribute by adding your favorite projects!*
+
+</div>
+
+---
+
+<a id="contents"></a>
+
+## 📑 Contents
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><a href="#browsers">🌐<br><b>Browsers</b></a></td>
+    <td align="center"><a href="#development">💻<br><b>Development</b></a></td>
+    <td align="center"><a href="#productivity">⚡<br><b>Productivity</b></a></td>
+    <td align="center"><a href="#games">🎮<br><b>Games</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="#graphics-and-design">🎨<br><b>Graphics & Design</b></a></td>
+    <td align="center"><a href="#utilities">🛠️<br><b>Utilities</b></a></td>
+    <td align="center"><a href="#password-managers">🔑<br><b>Password Managers</b></a></td>
+    <td align="center"><a href="#media">🎬<br><b>Media</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="#security">🛡️<br><b>Security</b></a></td>
+    <td align="center"><a href="#data-science">📊<br><b>Data Science</b></a></td>
+    <td align="center"><a href="#miscellaneous">🧩<br><b>Miscellaneous</b></a></td>
+    <td align="center"><a href="#contribution">☀️<br><b>Contribution</b></a></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<a id="browsers"></a>
+
+## 🌐 Browsers
 
 - [Brave Browser](https://brave.com/) - 🦁 A privacy-focused web browser with built-in ad and tracker blocking
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - 🔥🦊 A privacy focused non-chromium web browser
 
-## Development
+<div align="right"><a href="#readme-top">⬆️ Back to top</a></div>
+
+<a id="development"></a>
+
+## 💻 Development
 
 - [VS Code](https://github.com/microsoft/vscode) - 📝 Code editor
 - [Git](https://github.com/git/git) - 📜 Version control
@@ -30,18 +67,30 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [MicroCloud](https://canonical.com/microcloud) - 👾 A scaleable & lightweight cloud computing solution
 - [SiteWatcher](https://github.com/NikKurkov/sitewatcher) - 🔎 Self-hosted website uptime, TLS and domain expiry monitoring.
 
-## Productivity
+<div align="right"><a href="#readme-top">⬆️ Back to top</a></div>
+
+<a id="productivity"></a>
+
+## ⚡ Productivity
 
 - [LibreOffice](https://www.libreoffice.org/) - 📄 Office suite
 - [Joplin](https://github.com/laurent22/joplin) - 📓 Note-taking app
 - [Zim](https://github.com/jaap-karssenberg/zim-desktop-wiki) - 📚 Desktop wiki
 - [Thunderbird](https://www.thunderbird.net/en-GB/) - 📥 Email & chat client
 
-## Games
+<div align="right"><a href="#readme-top">⬆️ Back to top</a></div>
+
+<a id="games"></a>
+
+## 🎮 Games
 
 - [OpenTTD](https://www.openttd.org/) - 🚋 A fully open-source transport tycoon game
 
-## Graphics and Design
+<div align="right"><a href="#readme-top">⬆️ Back to top</a></div>
+
+<a id="graphics-and-design"></a>
+
+## 🎨 Graphics and Design
 
 - [GIMP](https://www.gimp.org/) - 🎨 Image editor
 - [Inkscape](https://inkscape.org/) - ✒️ Vector graphics editor
@@ -49,8 +98,12 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [Krita](https://krita.org/) - 🖌️ Digital painting
 - [Kdenlive](https://kdenlive.org/en/) - 🎨 Video Editor
 - [OpenShot](https://www.openshot.org/) - 🎥 An easy-to-use, quick to learn, and surprisingly powerful video editor
-  
-## Utilities
+
+<div align="right"><a href="#readme-top">⬆️ Back to top</a></div>
+
+<a id="utilities"></a>
+
+## 🛠️ Utilities
 
 - [7-Zip](https://www.7-zip.org/) - 📦 File archiver
 - [BitTool Signer for iOS](https://bittool.com/signer/) - 📱 Offline iPhone transaction-signing app that keeps keys on a dedicated device and exchanges requests and signatures via QR codes
@@ -60,18 +113,30 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [qBittorrent](https://www.qbittorrent.org/) - 📁 A lightweight and feature-rich BitTorrent client
 - [LatchLayout](https://github.com/stanczykwyatt/latchlayout) - 🧷 Windows 11 workspace launcher with configurable hold triggers, browser profiles, URLs, and saved display layouts (preview).
 
-## Password Managers
+<div align="right"><a href="#readme-top">⬆️ Back to top</a></div>
+
+<a id="password-managers"></a>
+
+## 🔑 Password Managers
 
 - [KeePass](https://keepass.info/) - 🔒 Offline password manager
 - [KeePassXC](https://keepassxc.org) 🔐 KeePass but better
 - [Bitwarden](https://bitwarden.com) - ⚔️ Online password manager
 
-## Media
+<div align="right"><a href="#readme-top">⬆️ Back to top</a></div>
+
+<a id="media"></a>
+
+## 🎬 Media
 
 - [VLC Media Player](https://www.videolan.org/vlc/) - 💿 A universal media player
 - [HandBrake](https://handbrake.fr/) - 🎞️ Video transcoder
-  
-## Security
+
+<div align="right"><a href="#readme-top">⬆️ Back to top</a></div>
+
+<a id="security"></a>
+
+## 🛡️ Security
 
 - [Kali Linux](https://www.kali.org/) - 🐉 Penetration testing OS
 - [Wireshark](https://www.wireshark.org/) - 📶 Network protocol analyzer
@@ -81,31 +146,57 @@ A curated list of awesome open-source software that can be incredibly useful for
 - [ClamAV](https://www.clamav.net/) - 🎯 Anti-virus scanner
 - [VyOS](https://vyos.io/) - 🔥 Router and firewall
 
-## Data Science
+<div align="right"><a href="#readme-top">⬆️ Back to top</a></div>
+
+<a id="data-science"></a>
+
+## 📊 Data Science
 
 - [Python](https://www.python.org/) - 🐍 Programming language
 - [Jupyter](https://jupyter.org/) - 📔 Notebook interface
 - [TensorFlow](https://www.tensorflow.org/) - 🧠 Machine learning framework
 - [matplotlib](https://matplotlib.org/) - 📈 Plotting library
 
-## Miscellaneous
+<div align="right"><a href="#readme-top">⬆️ Back to top</a></div>
+
+<a id="miscellaneous"></a>
+
+## 🧩 Miscellaneous
 
 - [Audacity](https://www.audacityteam.org/) - 🎧 Audio editor
 - [Kodi](https://kodi.tv/) - 📺 Media player
 - [Calibre](https://calibre-ebook.com/) - 📚 E-book manager
 - [Zentyal](https://www.zentyal.com/) - 🚀 Easy Linux Server Solution Alternative to Windows Server
 
-## Contribution ☀️
+<div align="right"><a href="#readme-top">⬆️ Back to top</a></div>
+
+---
+
+<a id="contribution"></a>
+
+## ☀️ Contribution
 
 We welcome contributions from the community to improve and grow this project. Here's how you can get involved:
 
-### Reporting Issues
+> [!TIP]
+> **Adding a project?** Put it in the right category and follow this format:
+>
+> ```markdown
+> - [Project Name](https://link-to-project) - 🙂 Short description
+> ```
+
+### 🐛 Reporting Issues
 
 If you encounter a bug or have a feature request, please open an issue on this repository. When creating an issue, please provide detailed information about the problem you're experiencing or the feature you'd like to see.
 
-### Pull Requests
+### 🔀 Pull Requests
 
 We encourage you to contribute to this project by submitting pull requests. To do so, please follow these steps:
+
+<details>
+<summary><b>Show the step-by-step guide</b></summary>
+
+<br>
 
 1. Fork this repository to your GitHub account.
 2. Create a new branch from the `main` branch in your forked repository.
@@ -119,4 +210,16 @@ We encourage you to contribute to this project by submitting pull requests. To d
 10. Engage in discussions with reviewers and address any feedback or questions.
 11. Once your PR is approved, it will be merged into the `main` branch.
 
+</details>
 
+---
+
+<div align="center">
+
+**If you find this list useful, consider giving it a ⭐!**
+
+Made with ❤️ by the open-source community
+
+<a href="#readme-top">⬆️ Back to top</a>
+
+</div>
